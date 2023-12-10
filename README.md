@@ -1,5 +1,5 @@
 Features:
-- User registration (Starter Kits)
+- User registration (Without Starter Kits)
 - User login
 - User profile view
 - User profile update
